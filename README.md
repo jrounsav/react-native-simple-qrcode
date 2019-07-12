@@ -1,19 +1,19 @@
 ## This project is a fork of an unmaintained project by cssvision
-[react-native-qrcode](https://github.com/cssivision/react-native-qrcode)
+[react-native-simple-qrcode](https://github.com/cssivision/react-native-simple-qrcode)
 
-# react-native-qrcode
+# react-native-simple-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
 ## Installation
 ```sh
-npm install react-native-qrcode --save
+npm install react-native-simple-qrcode --save
 ```
 ## Usage
 ```jsx
 'use strict';
 
 import React, { Component } from 'react'
-import QRCode from 'react-native-qrcode';
+import QRCode from 'react-native-simple-qrcode';
 
 import {
     AppRegistry,
@@ -80,4 +80,4 @@ prop      | type                 | default value
 
 # Licenses
 
-All source code is licensed under the [MIT License](https://github.com/cssivision/react-native-qrcode/blob/master/LICENSE).
+All source code is licensed under the [MIT License](https://github.com/cssivision/react-native-simple-qrcode/blob/master/LICENSE).
