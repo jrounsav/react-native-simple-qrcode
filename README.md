@@ -1,4 +1,5 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+## This project is a fork of an unmaintained project by cssvision
+[react-native-qrcode](https://github.com/cssivision/react-native-qrcode)
 
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
